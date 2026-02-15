@@ -26,7 +26,6 @@ The goal was to:
 - No data can be saved  
 - Malware cannot persist  
 
-📷 *Insert image: HDD removed*
 
 ---
 
@@ -35,7 +34,6 @@ The goal was to:
 - Microphone cable disconnected  
 - Cannot be re-enabled by software or malware  
 
-📷 *Insert image: Camera & mic cables removed*
 
 ---
 
@@ -44,8 +42,6 @@ The goal was to:
 - Runs fully in RAM  
 - Uses Tor for all internet  
 - Erases all data on shutdown  
-
-📷 *Insert image: Tails OS boot*
 
 ---
 
